@@ -1,7 +1,3 @@
-Here's the `README.md` file for your genetic algorithm visualization app:
-
----
-
 # Genetic Algorithm Visualization App
 
 ## Overview
